@@ -2,7 +2,7 @@
 
 ## Problem
 
-Let's say I want to check whether a string has every instance of strings
+Let's say I want to check whether a string contains a bunch of strings:
 
 In ES5
 ```JS
